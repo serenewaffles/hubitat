@@ -1,0 +1,13 @@
+{
+  "author": "benevolent",
+  "gitHubUrl": "https://github.com/serenewaffles",
+  "packages": [
+    {
+      "id": "a753b81c-1ba5-4103-adaa-b7bd737807ed",
+      "name": "Todoist Task Creator",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/todoistManifest.json",
+      "description": "A notifier device that can create arbitrary Todoist tasks"
+    }
+  ]
+}
