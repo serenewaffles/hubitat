@@ -1,0 +1,16 @@
+{
+  "packageName": "Todoist Task Creator",
+  "author": "benevolent",
+  "version": "1.0",
+  "minimumHEVersion": "0.0",
+  "dateReleased": "2021-02-21",
+  "drivers": [
+    {
+      "id": "8a949e9f-ba46-4f72-96b2-d1799d41a2b6",
+      "name": "Todoist task creator",
+      "namespace": "benevolent",
+      "location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/todoist-task-creator.groovy",
+      "required": true
+    }
+  ]
+}
