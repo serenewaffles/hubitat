@@ -168,8 +168,6 @@ def getLabels()
     try
     {
         logDebug("httpPostExec(${param})")
-        def jsonSlurper = new JsonSlurper()
-        def result
         httpGet(param)
         { resp ->
             if (resp.data)
