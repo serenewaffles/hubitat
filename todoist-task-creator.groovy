@@ -20,8 +20,6 @@
  * Known Bugs: zaro boogs
  */
 
-import groovy.json.JsonSlurper
-
 metadata
 {
     definition(name: "Todoist task creator", namespace: "benevolent", author: "benevolent", importUrl: "https://raw.githubusercontent.com/serenewaffles/hubitat/main/todoist-task-creator.groovy")
