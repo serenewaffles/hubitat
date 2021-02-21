@@ -24,7 +24,7 @@ import groovy.json.JsonSlurper
 
 metadata
 {
-    definition(name: "Todoist task creator", namespace: "benevolent", author: "benevolent", importUrl: "")
+    definition(name: "Todoist task creator", namespace: "benevolent", author: "benevolent", importUrl: "https://raw.githubusercontent.com/serenewaffles/hubitat-todoist-task-creator/main/todoist-task-creator.groovy")
     {
         capability "Notification"
         attribute "t", "string"
